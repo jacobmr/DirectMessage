@@ -1,0 +1,67 @@
+Received: from PRODEXCH01.hixnycolo.local (172.21.0.230) by
+ PRODEXCH01.hixnycolo.local (172.21.0.230) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.1748.10 via Mailbox Transport; Wed, 22 Oct 2025 19:33:13 -0400
+Received: from PRODEXCH01.hixnycolo.local (172.21.0.230) by
+ PRODEXCH01.hixnycolo.local (172.21.0.230) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.1748.10; Wed, 22 Oct 2025 19:33:13 -0400
+Received: from PRODEXCH01.hixnycolo.local ([::1]) by
+ PRODEXCH01.hixnycolo.local ([::1]) with mapi id 15.02.1748.010; Wed, 22 Oct
+ 2025 19:33:13 -0400
+From: test.resflo <test.resflo@hixny.net>
+To: resflo <resflo@hixny.net>
+Subject: Re: testing 1234
+Thread-Topic: testing 1234
+Thread-Index: AQHcQ6vp2Y67RcDEj0ihoZRZFWAtnbTO0RUF
+Date: Wed, 22 Oct 2025 16:33:13 -0700
+Message-ID: <d86695c956f847c39ef395581404a1f2@hixny.net>
+References: <63d3e842fe16469dbdcc4d40b95d79e7@hixny.net>
+In-Reply-To: <63d3e842fe16469dbdcc4d40b95d79e7@hixny.net>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: PRODEXCH01.hixnycolo.local
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	71228590-a600-46a5-0ef2-08de11c35e5d
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p>Reply here .<br>
+<br>
+All good</p>
+</div>
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" st=
+yle=3D"font-size:11pt" color=3D"#000000"><b>From:</b> resflo<br>
+<b>Sent:</b> Wednesday, October 22, 2025 4:30:55 PM<br>
+<b>To:</b> test.resflo<br>
+<b>Subject:</b> testing 1234</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p>no reply expected</p>
+</div>
+</div>
+</body>
+</html>
