@@ -1,0 +1,10 @@
+# Core dependencies
+cryptography>=41.0.0
+pyOpenSSL>=23.0.0
+python-dotenv>=1.0.0
+
+# Email handling
+email-validator>=2.0.0
+
+# Optional: For enhanced certificate management
+certifi>=2023.7.22

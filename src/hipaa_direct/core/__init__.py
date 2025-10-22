@@ -1,0 +1,1 @@
+"""Core Direct messaging functionality."""
