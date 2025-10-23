@@ -6,5 +6,13 @@ python-dotenv>=1.0.0
 # Email handling
 email-validator>=2.0.0
 
+# HTTP client for phiMail REST API
+requests>=2.31.0
+
+# FastAPI integration (optional)
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0
+
 # Optional: For enhanced certificate management
 certifi>=2023.7.22
