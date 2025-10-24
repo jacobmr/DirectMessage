@@ -58,3 +58,6 @@ logs/
 # OS
 .DS_Store
 Thumbs.db
+
+# Credentials (never commit!)
+HIXNY_CREDENTIALS.md
